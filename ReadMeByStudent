@@ -1,0 +1,4 @@
+Igra se pokrece pokretanjem run fajla iz foldera.
+Cilj igre je pogoditi metu sto vise puta. Igrac ima 20 metaka.
+Igra krece pritiskom na taster 'G' i zavrsava se kada igrac potrosi svih 20 metaka.
+Nisan se pomera koriscenjem tastera 'W', 'A', 'S' i 'D' a metak se ispaljuje pritiskom tastera 'P'.
